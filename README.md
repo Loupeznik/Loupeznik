@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Unity**
 
-- 👨‍💻 Some of my projects are available at [https://dzarsky.eu](https://dzarsky.eu)
-
-- 📝 I regularly write articles on [https://blog.dzarsky.eu](https://blog.dzarsky.eu)
+- 👨‍💻 Some of my projects are available at [my personal website](https://dzarsky.eu)
 
 
 <h3 align="left">Languages and Tools:</h3>
